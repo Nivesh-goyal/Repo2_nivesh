@@ -1,0 +1,4 @@
+[submodule "test_repo"]
+	path = test_repo
+	url = git@github.com:Nivesh-goyal/test_repo.git
+	branch = master
